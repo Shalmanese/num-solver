@@ -1,7 +1,7 @@
 @num_tested
 @num_solutions
 
-# UI for the pick_twor
+# UI for the solver
 def solve ()
   @num_tested = 0
   @num_solutions = 0
