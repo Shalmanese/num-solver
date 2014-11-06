@@ -1,7 +1,7 @@
 num-solver
 ==========
 
-Ruby Solver for NUM: Insanely Hard Math Game
+Ruby Solver for [NUM: Insanely Hard Math Game](http://numapp.co/)
 
 To run:
 
